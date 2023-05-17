@@ -1,4 +1,4 @@
-import java.math.BigIntiger;
+import java.math.BigInteger;
 /**
  * Beschreiben Sie hier die Klasse Main.
  * 
@@ -19,7 +19,7 @@ public class Main
         for(int i =2;i<=obereGrenze;i++){
             mult = mult.multiply(BigInteger.valueOf(i));
         }
-       
+       //Master update 1
     }
    
     }
